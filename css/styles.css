@@ -11,14 +11,14 @@ body {
 	background-color: #f0f0f0;
 }
 
-#navbar {
+.navbar {
   width: 600px;
   background-color: #555;
   overflow: hidden;
   position: fixed;
 }
 
-#navbar a {
+.navbar a {
   float: left;
   padding: 0px;
   color: white;
