@@ -1,7 +1,12 @@
+@media (max-width: 600px){
+}
+
 body {    
     margin: 0 !important;
     padding: 0 !important;
+    overflow-x:hidden!important;
 }
+
 
 .main {
 	width: 600px !important;
