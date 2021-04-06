@@ -1,7 +1,7 @@
 body {    
     margin: 0 !important;
     padding: 0 !important;
-    width: 600px !important;
+    width: 602px !important;
     overflow-x: hidden !important;
 }
 
@@ -35,20 +35,20 @@ body {
 
 
 h1 {
-    margin: 0;
+    margin: 10px;
     display: inline-block;
 }
 
 .button {
-    background-color: #4CAF50; /* Green */
-    border: none;
+    float: right;
+    background-color: #4da5e3;
     color: white;
-    padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    float: right;
+    padding: 18px 32px;
+    border-radius: 16px;
 }
 
 footer {
