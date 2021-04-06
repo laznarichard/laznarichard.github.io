@@ -7,12 +7,12 @@ body {
 
 
 .main {
-	width: 600px !important;
+	width: 602px !important;
 	background-color: #f0f0f0;
 }
 
 .navbar {
-  width: 600px;
+  width: 602px;
   background-color: #555;
   overflow: hidden;
   position: fixed;
@@ -23,7 +23,7 @@ body {
   padding: 0px;
   color: white;
   font-size: 14px;
-  padding: 25px 0;
+  padding: 21px 0;
   width: 75px;
   text-align: center;
 }
